@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, JotNoteActivity!</string>
+    <string name="app_name">Jot</string>
+    <string name="add_label">Add Note</string>
+    <string name="save_label">Save</string>
+    <string name="edit_hint">Type your Jot here</string>
+    <string name="delete_label">Delete Jot</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="share_label">Share</string>
+    <string name="add_pic">Add Pic</string>
+    <string name="caption_hint">Type your caption here</string>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" > 
+    <item android:id="@+id/add_actionbutton"
+        android:title="@string/add_label"
+    	android:icon="@drawable/ic_add"
+    	android:onClick="addNote"
+    	android:showAsAction="ifRoom"
+    	 />
+    
+
+</menu>
